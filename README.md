@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyrenity (Ghulam Mustafa)
 - 👀 I’m interested in Python, React/Vue.JS and Kubernetes 
-- 🌱 I’m currently learning OpenStack
+- 🌱 I’m currently learning OpenStack and Software-defined networking
 - 💞️ I’m looking to collaborate on starting my own IT services firm
 - 📫 Reach me at mustafa@bitvizor.com
 
