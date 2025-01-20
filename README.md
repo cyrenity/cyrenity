@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python, React/Vue.JS and Kubernetes 
 - 🌱 I’m currently learning OpenStack and Software-defined networking
 - 💞️ I’m looking to collaborate on starting my own IT services firm
-- 📫 Reach me at mustafa@bitvizor.com
 
 <!---
 cyrenity/cyrenity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
